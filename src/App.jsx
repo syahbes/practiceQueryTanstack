@@ -55,4 +55,4 @@ function wait(duration) {
   });
 }
 
-export default App;
+export default App
