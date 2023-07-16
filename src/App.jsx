@@ -49,10 +49,14 @@ function App() {
     </div>
   );
 }
+
+
 function wait(duration) {
   return new Promise((resolve) => {
     setTimeout(resolve, duration);
   });
 }
 
-export default App
+//cl
+
+export default App;
